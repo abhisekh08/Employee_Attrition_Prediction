@@ -1,14 +1,14 @@
 # Employee_Attrition_Prediction
 
-Employee Attrition rate Analysis and Prediction of Employee likely to exit from organization using historial data and Machine learning Alogorithms
+Employee Attrition rate Analysis and Prediction of Employee likely to exit from organization using historical data and Machine learning Alogorithms
 
 Tasks to perform
 
 - Exploratory Data Analysis
 - Preparation of dataset
-- scaling of dataset
-- spliting of dataset into train and test
-- oversampling of minority data
-- training and testing on different classifiers
-- comparision of prediction scores
-- plotting the results.
+- Scaling of dataset
+- Spliting of dataset into train and test
+- Oversampling of minority data
+- Training and testing on different classifiers
+- Comparision of prediction scores
+- Plotting the results.
